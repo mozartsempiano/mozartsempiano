@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mozartsempiano)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mozartsempiano&show_icons=true&bg_color=0D0D0C&border_color=1E1B21&title_color=E966A0&&text_color=F8EDFF&text_bold=false&icon_color=F8EDFF&locale=pt-br&border_radius=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mozartsempiano/mozartsempiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
